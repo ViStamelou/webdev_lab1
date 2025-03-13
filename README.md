@@ -1,2 +1,2 @@
 # webdev_lab1
-creating repo for lesson 2/module 1 activity
+Assignment: Lab 1: My First Website! (March 13 2025)
